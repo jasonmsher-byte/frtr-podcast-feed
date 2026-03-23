@@ -22,9 +22,9 @@
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1yCGr8yLTkFRCBaqlUB9TnKv5GNPf9_4Y"/>
+    <itunes:image href="https://jasonmsher-byte.github.io/frtr-podcast-feed/cover.jpg"/>
     <image>
-      <url>https://drive.google.com/uc?export=download&amp;id=1yCGr8yLTkFRCBaqlUB9TnKv5GNPf9_4Y</url>
+      <url>https://jasonmsher-byte.github.io/frtr-podcast-feed/cover.jpg</url>
       <title>From Rocks to Rockets by Alera Group</title>
       <link>https://fromrockstorockets.com</link>
     </image>
@@ -37,7 +37,7 @@
       <description><![CDATA[<p>Jason and Shane are at SATShow 2026 in Washington DC — the world's largest satellite conference — where every conversation is shaped by the Iran crisis and the future of space-based connectivity. From Amazon's race to launch 1,600 satellites by July, to the $42 billion debris problem, to Lloyd's of London offering 'safe driver discounts' for satellites, to the SES-Lynk-Omnispace merger creating direct-to-device connectivity for a billion people — this special episode breaks down why the satellite industry is now central to everything From Rocks to Rockets covers.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
       <itunes:summary>Jason and Shane report from SATShow 2026 in Washington DC. Amazon's 1,600-satellite deadline, the $42B debris problem, space insurance innovation including safe driver discounts for satellites, and why direct-to-device connectivity just became critical.</itunes:summary>
       <itunes:duration>467</itunes:duration>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1yCGr8yLTkFRCBaqlUB9TnKv5GNPf9_4Y"/>
+      <itunes:image href="https://jasonmsher-byte.github.io/frtr-podcast-feed/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
