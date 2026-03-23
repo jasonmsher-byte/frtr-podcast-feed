@@ -28,7 +28,7 @@
       <title>From Rocks to Rockets by Alera Group</title>
       <link>https://fromrockstorockets.com</link>
     </image>
-    <atom:link href="https://drive.google.com/uc?export=download&amp;id=150IAUurX5PQz9q6YjyXmhskJHHiO1Fo6" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://jasonmsher-byte.github.io/frtr-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
 
@@ -41,7 +41,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1_PJbagUcpgK6yV746mDVs0h3MVP4nuv8" length="11218485" type="audio/mpeg"/>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-23-sat-show.mp3" length="11218485" type="audio/mpeg"/>
       <guid isPermaLink="false">frtr-2026-03-23-sat-show-special</guid>
       <pubDate>Mon, 23 Mar 2026 14:00:00 +0000</pubDate>
       <link>https://fromrockstorockets.com</link>
@@ -56,7 +56,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IMbgI1DOUQnupvh4FnB9ZzcbOgxyy0a-" length="12066733" type="audio/mpeg"/>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-23.mp3" length="12066733" type="audio/mpeg"/>
       <guid isPermaLink="false">frtr-2026-03-23</guid>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <link>https://fromrockstorockets.com</link>
@@ -71,7 +71,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QwLeih82ByeaAmX1eRdz8rNym0o5foeH" length="11123190" type="audio/mpeg"/>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-22.mp3" length="11123190" type="audio/mpeg"/>
       <guid isPermaLink="false">frtr-2026-03-22</guid>
       <pubDate>Sun, 22 Mar 2026 11:00:00 +0000</pubDate>
       <link>https://fromrockstorockets.com</link>
@@ -86,7 +86,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aFxel89DdF2o8tpxP8EMuGlUBwt7QbzS" length="10476816" type="audio/mpeg"/>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-21.mp3" length="10476816" type="audio/mpeg"/>
       <guid isPermaLink="false">frtr-2026-03-21</guid>
       <pubDate>Sat, 21 Mar 2026 11:00:00 +0000</pubDate>
       <link>https://fromrockstorockets.com</link>
@@ -101,26 +101,13 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwUSHsC0Pdvj5kYm3EupjKBcILdHh_rb" length="10261150" type="audio/mpeg"/>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-20.mp3" length="10261150" type="audio/mpeg"/>
       <guid isPermaLink="false">frtr-2026-03-20</guid>
       <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
       <link>https://fromrockstorockets.com</link>
     </item>
 
-    <item>
-      <title>The AI Boom Just Hit a Wall</title>
-      <description><![CDATA[<p>Two stories collided overnight: Wood Mackenzie reports US data center pipeline additions fell 50% in Q4 2025, with 241 GW in the pipeline but only a third under active development. Simultaneously, oil surged past $115/barrel after Israel struck Iran's South Pars gas field and Iran retaliated against Qatar's Ras Laffan LNG complex — the world's largest. Jason Sher and Shane Smith break down what happens when the grid bottleneck meets a global energy price shock — and what it means for data center economics, insurance pricing, and the accelerating case for nuclear SMRs.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
-      <itunes:summary>Wood Mackenzie data center pipeline fell 50%. Oil past $115 after Gulf energy strikes. Grid bottleneck meets energy price shock — implications for data center economics, insurance, and nuclear SMRs.</itunes:summary>
-      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
-      <itunes:duration>572</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17N-mfpXCsVGDdDpi1AXZ5wfkuIA7baIA" length="13730732" type="audio/mpeg"/>
-      <guid isPermaLink="false">frtr-2026-03-19</guid>
-      <pubDate>Thu, 19 Mar 2026 11:00:00 +0000</pubDate>
-      <link>https://fromrockstorockets.com</link>
-    </item>
+    
 
     <item>
       <title>Jensen Huang Wants to Put Data Centers in Space</title>
@@ -131,7 +118,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15n9GnmQT-HOQkorsuqnrzMesB4FNuigb" length="11004699" type="audio/mpeg"/>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-18.mp3" length="11004699" type="audio/mpeg"/>
       <guid isPermaLink="false">frtr-2026-03-18</guid>
       <pubDate>Tue, 18 Mar 2026 11:00:00 +0000</pubDate>
       <link>https://fromrockstorockets.com</link>
