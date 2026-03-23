@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>From Rocks to Rockets by Alera Group</title>
+    <link>https://fromrockstorockets.com</link>
+    <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
+    <language>en-us</language>
+    <copyright>&#xA9; 2026 Alera Group</copyright>
+    <lastBuildDate>Mon, 23 Mar 2026 11:00:00 +0000</lastBuildDate>
+    <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+    <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Jason Sher</itunes:name>
+      <itunes:email>jasonmsher@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1yCGr8yLTkFRCBaqlUB9TnKv5GNPf9_4Y"/>
+    <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=1yCGr8yLTkFRCBaqlUB9TnKv5GNPf9_4Y</url>
+      <title>From Rocks to Rockets by Alera Group</title>
+      <link>https://fromrockstorockets.com</link>
+    </image>
+    <atom:link href="https://drive.google.com/uc?export=download&amp;id=150IAUurX5PQz9q6YjyXmhskJHHiO1Fo6" rel="self" type="application/rss+xml"/>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+
+        <item>
+      <title>Live From the Show Floor — SAT Show 2026</title>
+      <description><![CDATA[<p>Jason and Shane are at SATShow 2026 in Washington DC — the world's largest satellite conference — where every conversation is shaped by the Iran crisis and the future of space-based connectivity. From Amazon's race to launch 1,600 satellites by July, to the $42 billion debris problem, to Lloyd's of London offering 'safe driver discounts' for satellites, to the SES-Lynk-Omnispace merger creating direct-to-device connectivity for a billion people — this special episode breaks down why the satellite industry is now central to everything From Rocks to Rockets covers.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Jason and Shane report from SATShow 2026 in Washington DC. Amazon's 1,600-satellite deadline, the $42B debris problem, space insurance innovation including safe driver discounts for satellites, and why direct-to-device connectivity just became critical.</itunes:summary>
+      <itunes:duration>467</itunes:duration>
+      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1yCGr8yLTkFRCBaqlUB9TnKv5GNPf9_4Y"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1_PJbagUcpgK6yV746mDVs0h3MVP4nuv8" length="11218485" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-23-sat-show-special</guid>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+  <item>
+      <title>Worse Than the Seventies</title>
+      <description><![CDATA[<p>IEA Executive Director Fatih Birol declares the Iran crisis has had a more severe cumulative effect than the 1970s oil crises and the Russia-Ukraine gas crisis combined. With 40 energy facilities damaged across 9 countries, Trump's 48-hour ultimatum to Iran over the Strait of Hormuz, and energy prices surging, Jason and Shane break down why this moment reshapes every sector FRTR covers — from nuclear urgency to data center energy independence to the insurance implications of a regional energy infrastructure war.</p><p>Key topics: IEA Birol Canberra declaration, Trump 48-hour ultimatum, Brent at $113, gas up 32%, diesel up 40%, Nscale 1.35 GW campus with Microsoft/Nvidia/Caterpillar, DOE Nuclear Launch Pad July 4 deadline, marine war risk and business interruption insurance.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>IEA chief says Iran crisis is worse than the 1970s oil shocks. Trump gives Iran 48 hours. 40 facilities damaged across 9 countries. Gas up 32%, Brent at 13. Jason and Shane break down what this means for nuclear, data centers, critical minerals, and insurance.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>503</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IMbgI1DOUQnupvh4FnB9ZzcbOgxyy0a-" length="12066733" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-23</guid>
+      <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
+      <title>The Miners Are Leaving</title>
+      <description><![CDATA[<p>Bitcoin mining hashrate drops below 1 zetahash as miners capitulate to AI. The March 21 difficulty adjustment fell 7.76% — the second-largest drop of 2026 — as Core Scientific, Riot Platforms, Bitfarms, and Cango convert mining facilities to GPU clusters for AI workloads. With 14 of 15 US public miners operating below breakeven and the Gulf energy crisis compounding the squeeze, Jason and Shane break down the economics of the great mining pivot, what it means for power infrastructure, and why every conversion creates a bespoke insurance placement with no standard forms.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Bitcoin mining hashrate drops below 1 zetahash as miners capitulate to AI infrastructure. Core Scientific, Riot, Bitfarms converting to GPU clusters. 14 of 15 US miners unprofitable. Gulf crisis compounding the energy squeeze. Jason and Shane break down the economics of the great mining pivot and the new insurance risk category it creates.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>463</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QwLeih82ByeaAmX1eRdz8rNym0o5foeH" length="11123190" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-22</guid>
+      <pubDate>Sun, 22 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
+      <title>Half a Trillion Dollars on a Uranium Field</title>
+      <description><![CDATA[<p>SoftBank CEO Masayoshi Son unveiled the largest single-site AI infrastructure investment in history — $500 billion to build a 10-gigawatt data center on a decommissioned uranium enrichment plant in Piketon, Ohio. Powered by a 9.2 GW gas-fired plant — the largest gas build in US history. Financed by a 21-company Portsmouth Consortium including Japan's megabanks and Goldman Sachs. Jason and Shane break down the staggering scale, the irony of gas on a nuclear site, and the massive insurance implications.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>SoftBank CEO Masayoshi Son unveiled a $500 billion AI data center investment on a decommissioned uranium enrichment plant in Piketon, Ohio. Jason and Shane break down the 10 GW scale, the 9.2 GW gas plant, the 21-company Portsmouth Consortium, and who insures the largest AI infrastructure project in history.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>437</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aFxel89DdF2o8tpxP8EMuGlUBwt7QbzS" length="10476816" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-21</guid>
+      <pubDate>Sat, 21 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
+      <title>The Gas Generator Problem</title>
+      <description><![CDATA[<p>The New York Times investigation reveals how data center developers are abandoning the public grid, building behind-the-meter gas power plants using industrial Caterpillar generators to bypass years-long interconnection queues. But natural gas prices just spiked 24-35% after Iranian strikes physically damaged Qatar's Ras Laffan LNG facility. Jason Sher and Shane Smith break down what happens when the off-grid boom meets a global energy crisis -- and why it creates an entirely new category of insurable risk.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>NYT exposes behind-the-meter gas generator boom for data centers. Natural gas prices spike 35% from Gulf strikes. New insurance risk profiles emerge for off-grid AI infrastructure.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>428</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwUSHsC0Pdvj5kYm3EupjKBcILdHh_rb" length="10261150" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-20</guid>
+      <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
+      <title>The AI Boom Just Hit a Wall</title>
+      <description><![CDATA[<p>Two stories collided overnight: Wood Mackenzie reports US data center pipeline additions fell 50% in Q4 2025, with 241 GW in the pipeline but only a third under active development. Simultaneously, oil surged past $115/barrel after Israel struck Iran's South Pars gas field and Iran retaliated against Qatar's Ras Laffan LNG complex — the world's largest. Jason Sher and Shane Smith break down what happens when the grid bottleneck meets a global energy price shock — and what it means for data center economics, insurance pricing, and the accelerating case for nuclear SMRs.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Wood Mackenzie data center pipeline fell 50%. Oil past $115 after Gulf energy strikes. Grid bottleneck meets energy price shock — implications for data center economics, insurance, and nuclear SMRs.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>572</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17N-mfpXCsVGDdDpi1AXZ5wfkuIA7baIA" length="13730732" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-19</guid>
+      <pubDate>Thu, 19 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
+      <title>Jensen Huang Wants to Put Data Centers in Space</title>
+      <description><![CDATA[<p>Jensen Huang stood on stage at Nvidia GTC 2026 and announced chips specifically designed for data centers in low Earth orbit. Most coverage focused on the trillion-dollar revenue outlook — but the orbital announcement changes something fundamental about where AI infrastructure is heading.</p><p>In this episode, Jason Sher and Shane Smith break down the Vera Rubin Space Module, the energy thesis behind orbital compute, and what happens to the insurance market when data centers leave the atmosphere. Plus: Pure DC's 110MW off-grid data center in Dublin, the $500B hyperscaler capex wave, and Groq's integration into the Vera Rubin architecture.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Nvidia GTC 2026: Vera Rubin Space Module for orbital data centers, $1T revenue outlook, Pure DC's 110MW Dublin microgrid, and the insurance implications of compute infrastructure leaving Earth.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>458</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15n9GnmQT-HOQkorsuqnrzMesB4FNuigb" length="11004699" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-18</guid>
+      <pubDate>Tue, 18 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+  </channel>
+</rss>
