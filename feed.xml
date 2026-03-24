@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -32,7 +32,23 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
 
-        <item>
+            <item>
+      <title>The War for Your Phone</title>
+      <description><![CDATA[<p>Day Two at the SAT Show in Washington DC. Jason and Shane break down the four-way battle for direct-to-device satellite connectivity — Starlink's 650 D2C satellites vs AST SpaceMobile's basketball-court-sized arrays vs Amazon Leo's FCC deadline crisis vs the SES-Lynk-Omnispace merger creating a multi-orbit D2D powerhouse. Rick Freeman's quiet exit from Amazon, the FCC slamming Kuiper for asking for a 24-month extension while blocking SpaceX, AST's ironic dependence on SpaceX launches, and why nobody has a standard insurance form for constellation concentration risk, regulatory license uncertainty, or the counter-party web where every company is simultaneously customer and competitor.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Day 2 at SAT Show 2026: The four-way war for direct-to-device — Starlink vs AST SpaceMobile vs Amazon Kuiper vs SES-Lynk-Omnispace. Rick Freeman exits Amazon, FCC slams Kuiper for deadline delays, AST depends on SpaceX to compete with SpaceX, and nobody knows how to insure constellation concentration risk.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>448</itunes:duration>
+      <itunes:image href="https://jasonmsher-byte.github.io/frtr-podcast-feed/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/frtr-2026-03-24.mp3" length="10775866" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-24</guid>
+      <pubDate>Tue, 24 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+<item>
       <title>Live From the Show Floor — SAT Show 2026</title>
       <description><![CDATA[<p>Jason and Shane are at SATShow 2026 in Washington DC — the world's largest satellite conference — where every conversation is shaped by the Iran crisis and the future of space-based connectivity. From Amazon's race to launch 1,600 satellites by July, to the $42 billion debris problem, to Lloyd's of London offering 'safe driver discounts' for satellites, to the SES-Lynk-Omnispace merger creating direct-to-device connectivity for a billion people — this special episode breaks down why the satellite industry is now central to everything From Rocks to Rockets covers.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
       <itunes:summary>Jason and Shane report from SATShow 2026 in Washington DC. Amazon's 1,600-satellite deadline, the $42B debris problem, space insurance innovation including safe driver discounts for satellites, and why direct-to-device connectivity just became critical.</itunes:summary>
