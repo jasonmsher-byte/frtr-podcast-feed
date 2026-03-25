@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The Rare Earth Rebellion</title>
+      <description><![CDATA[<p>Energy Fuels just announced the first US heavy rare earth production from a primary mineral feedstock in decades -- 99.9% pure terbium oxide produced at the White Mesa Mill in Utah from monazite ore mined in Florida and Georgia. Jason and Shane break down why this matters: China has export controls on 12 of 17 rare earth elements, auto manufacturers shut down when those controls hit, and now an American company is proving it can build a mine-to-oxide supply chain on US soil. The insurance angle: supply chain resilience, strategic commodity pricing risk, and the products that don't exist yet. Plus the Australia-EU trade deal creating a Western rare earth triangle.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>First US heavy rare earth production in decades: Energy Fuels produces 99.9% pure terbium oxide in Utah from domestic ore. China controls 12 of 17 rare earth elements via export restrictions. Insurance angle on supply chain resilience, predatory pricing risk, and the Western rare earth triangle forming with Australia-EU trade deal.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>346</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro-2026-03-25.mp3" length="8309489" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-25</guid>
+      <pubDate>Wed, 25 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The War for Your Phone</title>
       <description><![CDATA[<p>Day Two at the SAT Show in Washington DC. Jason and Shane break down the four-way battle for direct-to-device satellite connectivity — Starlink's 650 D2C satellites vs AST SpaceMobile's basketball-court-sized arrays vs Amazon Leo's FCC deadline crisis vs the SES-Lynk-Omnispace merger creating a multi-orbit D2D powerhouse. Rick Freeman's quiet exit from Amazon, the FCC slamming Kuiper for asking for a 24-month extension while blocking SpaceX, AST's ironic dependence on SpaceX launches, and why nobody has a standard insurance form for constellation concentration risk, regulatory license uncertainty, or the counter-party web where every company is simultaneously customer and competitor.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
       <itunes:summary>Day 2 at SAT Show 2026: The four-way war for direct-to-device — Starlink vs AST SpaceMobile vs Amazon Kuiper vs SES-Lynk-Omnispace. Rick Freeman exits Amazon, FCC slams Kuiper for deadline delays, AST depends on SpaceX to compete with SpaceX, and nobody knows how to insure constellation concentration risk.</itunes:summary>
