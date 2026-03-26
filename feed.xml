@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The Nuclear Pivot</title>
+      <description><![CDATA[<p>Southeast Asia is racing to become the AI computing hub of the world — Malaysia alone has 500 operational data centers with 1,140 more in the pipeline. But the region has never produced a single watt of nuclear energy. Now, with the Iran war pushing Brent crude past $106 and the Strait of Hormuz down to just 4 ship transits per day, five ASEAN nations are pivoting to nuclear power. Vietnam just advanced a deal with Russia. Indonesia is targeting SMRs by 2034. The Philippines is reviving a plant they built in the 1970s and never turned on. Jason and Shane break down the nuclear insurance gap, the geopolitical race for reactor supply, and why the gap between moving capital and missing insurance products is the defining opportunity.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Southeast Asia is racing to become the AI computing hub of the world while having never produced nuclear energy. With the Iran war pushing oil past 06, five ASEAN nations are now pursuing nuclear power for their data center buildouts. Jason and Shane break down nuclear insurance in newcomer nations, the geopolitical reactor race, and the data center feedback loop.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>444</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro-2026-03-26.mp3" length="10648598" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-26</guid>
+      <pubDate>Thu, 26 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The Rare Earth Rebellion</title>
       <description><![CDATA[<p>Energy Fuels just announced the first US heavy rare earth production from a primary mineral feedstock in decades -- 99.9% pure terbium oxide produced at the White Mesa Mill in Utah from monazite ore mined in Florida and Georgia. Jason and Shane break down why this matters: China has export controls on 12 of 17 rare earth elements, auto manufacturers shut down when those controls hit, and now an American company is proving it can build a mine-to-oxide supply chain on US soil. The insurance angle: supply chain resilience, strategic commodity pricing risk, and the products that don't exist yet. Plus the Australia-EU trade deal creating a Western rare earth triangle.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>First US heavy rare earth production in decades: Energy Fuels produces 99.9% pure terbium oxide in Utah from domestic ore. China controls 12 of 17 rare earth elements via export restrictions. Insurance angle on supply chain resilience, predatory pricing risk, and the Western rare earth triangle forming with Australia-EU trade deal.</itunes:summary>
