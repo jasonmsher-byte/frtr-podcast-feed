@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The $156 Billion Wall</title>
+      <description><![CDATA[<p>One hundred and fifty-six billion dollars in data center projects blocked by local opposition. Jason and Shane break down the NIMBY revolt reshaping the AI buildout -- from Texas Republicans calling for a construction pause to Virginia's budget impasse over data center tax breaks. They dig into the insurance implications: builder's risk on canceled projects, political risk on domestic soil, the grid interactivity debate, and why this is not a speed bump but a movement.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Episode 15 covers the data center NIMBY revolt: $156 billion in projects blocked, bipartisan opposition hardening into law, and the insurance implications across builder&apos;s risk, property, credit, and political risk lines.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>423</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="10156451" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-30</guid>
+      <pubDate>Mon, 30 Mar 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The Tehran Toll Booth</title>
       <description><![CDATA[<p>Iran is formalizing a toll system for the Strait of Hormuz -- charging ships up to $2 million per transit while parliament drafts legislation to make it permanent. Daily vessel traffic has dropped 95%, roughly 3,000 ships are stranded, and the IRGC is running a clearance-code system through Iranian territorial waters. Jason and Shane break down the maritime insurance catastrophe: war risk premiums, the legal debate over whether these fees constitute ransom, stranded cargo exposure, and why one chokepoint radiates correlated risk across every line of business.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>Iran is formalizing a toll system for the Strait of Hormuz, charging ships up to two million dollars per transit. We break down the maritime insurance catastrophe and why one chokepoint radiates risk across every line of business.</itunes:summary>
