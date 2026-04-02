@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The Inflection Point</title>
+      <description><![CDATA[<p>Trump's first prime-time address on the Iran war claims military objectives are nearing completion and demands Hormuz reopening. Oil dropped $10 in a day. But Iran fired more missiles at Israel hours later. Gulf war risk premiums eased from 2.5% to 1% of hull value -- still 8x pre-war. VLCC voyage premiums: $2-3 million vs $250K before the war. 40+ tankers stranded. The episode examines why premiums won't snap back even with a ceasefire, the permanent repricing of Gulf marine risk, and how energy disruption flows through to data centers and AI infrastructure. Plus: Artemis II launches successfully -- first crewed Moon mission in 53 years.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Trump says the Iran war ends in 2-3 weeks. Oil crashed. War risk premiums eased but remain 8x pre-war. We break down the permanent repricing of Gulf marine insurance and what it means for energy, data centers, and AI. Plus Artemis II launches for the Moon.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>516</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="12383964" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-02</guid>
+      <pubDate>Thu, 02 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The $156 Billion Wall</title>
       <description><![CDATA[<p>One hundred and fifty-six billion dollars in data center projects blocked by local opposition. Jason and Shane break down the NIMBY revolt reshaping the AI buildout -- from Texas Republicans calling for a construction pause to Virginia's budget impasse over data center tax breaks. They dig into the insurance implications: builder's risk on canceled projects, political risk on domestic soil, the grid interactivity debate, and why this is not a speed bump but a movement.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>Episode 15 covers the data center NIMBY revolt: $156 billion in projects blocked, bipartisan opposition hardening into law, and the insurance implications across builder&apos;s risk, property, credit, and political risk lines.</itunes:summary>
