@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>Faster Than Human</title>
+      <description><![CDATA[<p>A humanoid robot made by Honor just ran a half-marathon in Beijing in 50 minutes and 26 seconds -- faster than the human world record. Over 100 robots competed, up from 20 last year when most couldn't even finish. Meanwhile, Section 232 metal tariffs are pushing Bitcoin mining costs up 47%, half of planned US data centers are delayed or cancelled due to Chinese-made electrical component shortages, and a DOE Inspector General audit blasted the NuScale SMR project as mismanaged from day one. Jason and Shane connect the dots between China's robotics leap, America's tariff tangle, and the infrastructure race that defines the industries building the future.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>A humanoid robot beat the human world record in a half-marathon in Beijing. Section 232 tariffs pushed bitcoin mining costs up 47%. Half of US data center builds are delayed due to Chinese electrical component shortages. DOE audit found NuScale SMR project was mismanaged. Jason and Shane connect China&apos;s robotics leap to America&apos;s infrastructure challenges.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>515</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="12365156" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-19</guid>
+      <pubDate>Sun, 19 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>Read the Fine Print</title>
       <description><![CDATA[<p>The US-Iran ceasefire is in effect. Oil crashed 15%. Markets are surging. But the fine print tells a very different story. Trump demands complete Hormuz reopening. Iran agreed to coordinated passage under armed forces supervision. Both sides claim victory. Over 1,000 vessels are waiting. Maersk won't send ships through yet. Iran is charging $2 million per ship in transit fees. War risk premiums remain 8x pre-war. The episode examines why a ceasefire is not the same as safety, maps two scenarios for the Islamabad talks, and explains why the cost of Gulf transit has permanently increased.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>The US-Iran ceasefire is in effect but the fine print is where the insurance story is. Trump and Iran describe different realities on Hormuz. Maersk won&apos;t move ships yet. Iran is charging $2M per ship. We break down what the ceasefire actually means for insurance, shipping, and energy.</itunes:summary>
