@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The Western Counter-Punch</title>
+      <description><![CDATA[<p>A British-built, Nvidia-trained humanoid robot ran eight hours on a Siemens factory floor in southwest Germany -- the most credible Western counter-punch in industrial humanoids yet. But CNBC reports 6 of 10 top humanoid shippers are Chinese, Agibot runs 310 units per hour, and American robotics companies are valued ~10x their Chinese peers while shipping fewer units. Also: Blue Origin NG-3 landed the booster but dropped AST SpaceMobile's BlueBird 7 in the wrong orbit (FAA grounded), Google TPUs eat Nvidia inference at Anthropic, CoreWeave closes $1B senior notes at 9.75%, aluminum hits a 4-year high on Hormuz risk, Congo miners restrict sulfuric acid, and the US-Australia $3.5B critical minerals package lands.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>The West finally scored in humanoid robotics: Siemens + Nvidia + HMND 01 ran 8 hours on a German factory floor. But China ships 310 per hour per line, and US robotics valuations are 10x their Chinese peers. Plus Blue Origin NG-3 partial failure, Google TPU threat, CoreWeave debt at 9.75%, aluminum 4-year high, and the US-Australia critical minerals package.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>521</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/ep21.mp3" length="12501829" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-21</guid>
+      <pubDate>Tue, 21 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The $1.4 Trillion Bill</title>
       <description><![CDATA[<p>US utilities plan $1.4 trillion in grid spending through 2030, up 27% year-over-year, driven primarily by data center demand. Consumer bills are up 40% since 2021. The nuclear sector is splitting -- the UK signs a landmark Rolls-Royce SMR contract for three reactors while NuScale faces a securities fraud class action. Palisades nuclear plant advances toward the first major US nuclear restart. And in China, humanoid robots are working 24/7 factory shifts.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>US utilities plan 1.4 trillion in grid spending through 2030, up 27% in a year. Consumer bills up 40% since 2021. UK signs Rolls-Royce SMR contract while NuScale faces fraud lawsuit. Palisades nuclear restart advances. Chinese humanoid robots working factory shifts 24/7.</itunes:summary>
