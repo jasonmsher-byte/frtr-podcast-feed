@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>Allies on the Acid</title>
+      <description><![CDATA[<p>Yesterday Sec. Marco Rubio and EU Trade Commissioner Maros Sefcovic signed a Memorandum of Understanding on a US-EU Strategic Partnership for critical minerals, with USTR Greer announcing a parallel Action Plan covering extraction, processing, recycling, subsidies, and stockpiles. Shane Smith and Jason Sher unpack the four insurable surfaces underneath the MOU -- stockpile cover, refinery and separation, political risk on Western-aligned mining assets, and the white space nobody is writing: contingent BI keying off chemical inputs (sulfuric acid, ammonia, peroxide). Connected to the supply panic: Honor's autonomous Lightning humanoid winning Beijing's half-marathon in 50:26 -- a million humanoids by 2030 is roughly the entire current ex-China heavy rare earth output. Plus EdgeCore $1.5B, Microsoft Australia, Wood Mackenzie gas turbines +195%, and Bloom Energy's $7.65B in 90 days.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Sec. Rubio and EU Commissioner Sefcovic signed a US-EU critical minerals MOU April 24. Shane and Jason unpack the four insurable surfaces it exposes -- stockpile, refinery, political risk, and chemical-input BI -- and tie the supply chokepoint to demand: an autonomous humanoid robot just beat the human half-marathon record on the same rare-earth supply chain.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>523</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="12558880" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-25</guid>
+      <pubDate>Sat, 25 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The $23 Billion Backlog</title>
       <description><![CDATA[<p>Applied Digital's 8-K filing on April 23 signed a 15-year, 300 MW, $7.5 billion lease at the Delta Forge 1 campus with an unnamed U.S.-based investment-grade hyperscaler -- pushing total contracted lease revenue past $23 billion across three rural North Dakota AI Factory sites. Two years ago this was a bitcoin miner. Shane Smith and Jason Sher unpack why this is a petrochemical-plant risk profile, not a data center, and the CAT aggregation problem reinsurers haven't caught up to. Plus Antares' path to criticality before July 4, Meta breaking ground in Tulsa, and rare earths ripping on terbium and NdPr.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>Applied Digital signed a $7.5B, 300 MW, 15-year hyperscaler lease at Delta Forge 1 -- total contracted revenue now above $23B. Jason and Shane break down why a 300 MW single-tenant hyperscale build is a petrochemical-plant risk, not a data center risk, plus Antares criticality, Meta Tulsa, and the rare-earth surge.</itunes:summary>
