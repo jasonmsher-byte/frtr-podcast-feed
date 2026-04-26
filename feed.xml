@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The Nuclear IPO Window</title>
+      <description><![CDATA[<p>X-Energy IPO'd on Nasdaq Friday at an $11.9B valuation, +31% on Day 1 -- the first major SMR developer to print a public market price tag. We walk through the cap table (Amazon, Ares, ATL Partners, Citadel), Blue Energy's $380M raise to build grid-scale reactors in shipyards, why site-as-factory kills traditional nuclear, and three insurance products factory-built nuclear needs that don't yet exist. Quick hits: Anthropic-Amazon up to 5 GW, Project Prometheus near $10B, DataBank/Switch/EdgeCore financings, Sightline 2026 delays, and the gas-anchored AI emissions story.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>X-Energy&apos;s $11.9B Nasdaq debut, Blue Energy&apos;s $380M shipyard-reactor raise, and the three insurance products factory-built nuclear needs that don&apos;t exist yet. Plus Anthropic-Amazon at 5 GW, Project Prometheus, and the 2026 data center delays.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>533</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="12793982" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-26</guid>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>Allies on the Acid</title>
       <description><![CDATA[<p>Yesterday Sec. Marco Rubio and EU Trade Commissioner Maros Sefcovic signed a Memorandum of Understanding on a US-EU Strategic Partnership for critical minerals, with USTR Greer announcing a parallel Action Plan covering extraction, processing, recycling, subsidies, and stockpiles. Shane Smith and Jason Sher unpack the four insurable surfaces underneath the MOU -- stockpile cover, refinery and separation, political risk on Western-aligned mining assets, and the white space nobody is writing: contingent BI keying off chemical inputs (sulfuric acid, ammonia, peroxide). Connected to the supply panic: Honor's autonomous Lightning humanoid winning Beijing's half-marathon in 50:26 -- a million humanoids by 2030 is roughly the entire current ex-China heavy rare earth output. Plus EdgeCore $1.5B, Microsoft Australia, Wood Mackenzie gas turbines +195%, and Bloom Energy's $7.65B in 90 days.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>Sec. Rubio and EU Commissioner Sefcovic signed a US-EU critical minerals MOU April 24. Shane and Jason unpack the four insurable surfaces it exposes -- stockpile, refinery, political risk, and chemical-input BI -- and tie the supply chokepoint to demand: an autonomous humanoid robot just beat the human half-marathon record on the same rare-earth supply chain.</itunes:summary>
