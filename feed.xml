@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>The Data Center Is Now a Power Plant</title>
+      <description><![CDATA[<p>On May 4, NERC issued a rare Level 3 alert -- its highest urgency category -- in response to repeated events where 1,000+ MW of AI data center load dropped off the bulk power system in seconds. A brand-new functional entity class, the Computational Load Entity, will put Amazon, Google, Meta, Microsoft, IREN and every crypto-to-AI converter in the same regulatory bucket as a power plant. We walk through what that does to property, BI, contingent BI, and D and O underwriting. Plus Nvidia's $2.1B / 5 GW / $3.4B IREN deal, the bitcoin-vs-AI capex gap ($150K to $7.5M per MW), and MARAD's RFI asking the insurance industry to write the policy form for nuclear-powered ships.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>NERC&apos;s rare Level 3 alert reclassifies AI data centers as regulated entities, Nvidia drops $2.1B on IREN with a 5 GW deployment plan, and MARAD asks the insurance industry to invent a policy form for nuclear-powered ships.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>545</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="13078612" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-10</guid>
+      <pubDate>Sun, 10 May 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The Nuclear IPO Window</title>
       <description><![CDATA[<p>X-Energy IPO'd on Nasdaq Friday at an $11.9B valuation, +31% on Day 1 -- the first major SMR developer to print a public market price tag. We walk through the cap table (Amazon, Ares, ATL Partners, Citadel), Blue Energy's $380M raise to build grid-scale reactors in shipyards, why site-as-factory kills traditional nuclear, and three insurance products factory-built nuclear needs that don't yet exist. Quick hits: Anthropic-Amazon up to 5 GW, Project Prometheus near $10B, DataBank/Switch/EdgeCore financings, Sightline 2026 delays, and the gas-anchored AI emissions story.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>X-Energy&apos;s $11.9B Nasdaq debut, Blue Energy&apos;s $380M shipyard-reactor raise, and the three insurance products factory-built nuclear needs that don&apos;t exist yet. Plus Anthropic-Amazon at 5 GW, Project Prometheus, and the 2026 data center delays.</itunes:summary>
