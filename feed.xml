@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Sun, 10 May 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher and Shane Smith of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>Florida Sends the Bill</title>
+      <description><![CDATA[<p>Florida just sent the bill. On May 7, Governor DeSantis signed SB 484 -- effective July 1, every dollar of electrical infrastructure, transmission upgrades, and system expansion required to serve a large-load data center customer in Florida lands on the data center, not the ratepayer. We walk through why this is the cleanest political move in the energy file, the three immediate insurance shifts (utility-contract interface, property TIV, D&O), DOE's same-week $94M push behind eight American SMR vendors, Anthropic's $950B valuation raise, Oracle dropping gas turbines for fuel cells at Project Jupiter, and the November 10 China rare earth deadline.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>Florida SB 484 puts every dollar of data center electrical infrastructure on the data center. DOE backs eight SMR vendors with $94M. Anthropic re-prices at $950B. Oracle drops gas turbines for fuel cells.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>613</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="14718684" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-18</guid>
+      <pubDate>Mon, 18 May 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>The Data Center Is Now a Power Plant</title>
       <description><![CDATA[<p>On May 4, NERC issued a rare Level 3 alert -- its highest urgency category -- in response to repeated events where 1,000+ MW of AI data center load dropped off the bulk power system in seconds. A brand-new functional entity class, the Computational Load Entity, will put Amazon, Google, Meta, Microsoft, IREN and every crypto-to-AI converter in the same regulatory bucket as a power plant. We walk through what that does to property, BI, contingent BI, and D and O underwriting. Plus Nvidia's $2.1B / 5 GW / $3.4B IREN deal, the bitcoin-vs-AI capex gap ($150K to $7.5M per MW), and MARAD's RFI asking the insurance industry to write the policy form for nuclear-powered ships.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>NERC&apos;s rare Level 3 alert reclassifies AI data centers as regulated entities, Nvidia drops $2.1B on IREN with a 5 GW deployment plan, and MARAD asks the insurance industry to invent a policy form for nuclear-powered ships.</itunes:summary>
