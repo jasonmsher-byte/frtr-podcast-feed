@@ -10,7 +10,7 @@
     <description>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher of Alera Group's Emerging Industries practice. New episodes daily. This podcast is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the host.</description>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Alera Group</copyright>
-    <lastBuildDate>Mon, 18 May 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:00:00 +0000</lastBuildDate>
     <itunes:author>Jason Sher</itunes:author>
     <itunes:summary>The industries building the future — AI infrastructure, data centers, energy, critical minerals, nuclear, robotics, aerospace, and the insurance that makes it all possible. Hosted by Jason Sher of Alera Group's Emerging Industries practice.</itunes:summary>
     <itunes:owner>
@@ -33,6 +33,21 @@
     <podcast:locked>no</podcast:locked>
 
             <item>
+      <title>Episode 29: The 130-Gigawatt Wedding</title>
+      <description><![CDATA[<p>The biggest power acquisition in US history dropped yesterday. NextEra Energy is buying Dominion Energy in an all-stock deal valued at approximately $67B -- creating the world's largest regulated electric utility with about 10 million customer accounts across Florida, Virginia, North Carolina, and South Carolina, 110 GW of combined generation, a 130+ GW large-load pipeline, and a $138B rate base. Host Jason Sher walks the property, D&amp;O, and specialty surfaces the deal moves, plus this week's coverage gap on the cover sheet, a six-sector markets watch, and quick hits on the Strait of Hormuz crisis, the NRC's accelerated review of Radiant's microreactor license, and the reported SpaceX IPO.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the host. Alera Group -- Emerging Industries.</em></p>]]></description>
+      <itunes:summary>NextEra-Dominion announced a definitive ~$67B all-stock merger yesterday -- the biggest power acquisition in US history. Jason walks the three insurance surfaces it moves: property/TIV across 110 GW of combined generation plus 30-plus planned new data center hubs; D&amp;O across a five-regulator approval gauntlet; and specialty contract-interface coverage on the 130-GW large-load pipeline.</itunes:summary>
+      <itunes:author>Jason Sher &amp; Shane Smith</itunes:author>
+      <itunes:duration>488</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-podcast-feed/episodes/episode-with-intro.mp3" length="11680747" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-19</guid>
+      <pubDate>Tue, 19 May 2026 11:00:00 +0000</pubDate>
+      <link>https://fromrockstorockets.com</link>
+    </item>
+
+    <item>
       <title>Florida Sends the Bill</title>
       <description><![CDATA[<p>Florida just sent the bill. On May 7, Governor DeSantis signed SB 484 -- effective July 1, every dollar of electrical infrastructure, transmission upgrades, and system expansion required to serve a large-load data center customer in Florida lands on the data center, not the ratepayer. We walk through why this is the cleanest political move in the energy file, the three immediate insurance shifts (utility-contract interface, property TIV, D&O), DOE's same-week $94M push behind eight American SMR vendors, Anthropic's $950B valuation raise, Oracle dropping gas turbines for fuel cells at Project Jupiter, and the November 10 China rare earth deadline.</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the host. Alera Group -- Emerging Industries.</em></p>]]></description>
       <itunes:summary>Florida SB 484 puts every dollar of data center electrical infrastructure on the data center. DOE backs eight SMR vendors with $94M. Anthropic re-prices at $950B. Oracle drops gas turbines for fuel cells.</itunes:summary>
